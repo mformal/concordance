@@ -1,0 +1,880 @@
+Term
+$ATTRDEF
+$ATTRIBUTE_LIST
+$BADCLUS
+$BITMAP
+$BITMAP
+$BOOT
+$DATA
+$Data – Nonresident
+$Data – Resident
+$Data Header
+$EA
+$EA_INFORMATION
+$EXTEND
+$FILE_NAME
+$File_Name Header
+$I30
+$I30 – Index Block
+$I30 – Slack space
+$INDEX_ALLOCATION
+$INDEX_ALLOCATION
+$INDEX_ROOT
+$INDEX_ROOT
+$J
+$LOGFILE
+$LOGFILE
+$LOGGED_UTILITY_STREAM
+$Max
+$MFT
+$MFTMIRR
+$OBJECT_ID
+$ObjId
+$Quota
+$Reparse
+$REPARSE_POINT
+$SECURE
+$SECURITY_DESCRIPTOR
+$STANDARD_INFORMATION
+$Standard_Information Header
+$UPCASE
+$UsnJrnl
+$UsnJrnl
+$VOLUME
+$VOLUME_INFORMATION
+$VOLUME_NAME
+.
+\Device\PhysicalMemory
+access token
+Account Creation
+Account Logon
+Account Logon Events
+Account Management
+Account Usage
+Acquiring Processes and Drivers – Volatility
+Additional Time Rule Exceptions
+Additional Time Rule Exceptions
+Admin Shares
+Admin Shares – Detection
+Admin Shares – Permissions required
+Admin$
+Advanced NTFS Journal Parser (ANJP)
+Adversary Operation Process
+Allocated Clusters
+Alternate Data Streams
+AmCache.hve
+AmCache.hve – Contents
+AmCache.hve – Location
+AmCache.hve – Value Name Chart
+Amcache.py
+Analysis Pass
+analyzeMFT.py
+Analyzing Process Objects – Volatility
+Analyzing Processes – Identifiers of Evil
+Anonymous Logon
+Anti-Forensics 
+Antivirus Checks
+API Manipulation – Malware
+apihooks
+AppCompatCacheParser
+Application
+Application and Services
+Application Compatibility Cache
+Application Compatibility Cache – Contents
+Application Compatibility Cache – Registry
+Application Deployment Software
+Application Deployment Software – Detection
+Application Experience
+Application Installation
+Application Vulnerabilities
+Artifacts - Chart
+Artifacts - Chart
+AsJob
+at.exe
+Atomic
+Authentication – PowerShell
+Automated Memory Analysis
+Autoruns
+autoruns
+Autoruns – Search locations
+autorunsc.exe
+AutoStart – Persistence
+Auto-start Extensibility Point (ASEP)
+baseline
+Batch Files
+Behavioral
+BLANK PAGE
+blkcalc
+blkcalc
+blkcat
+blkcat
+blkls
+blkls
+blkstat
+blkstat
+bodyfile
+bodyfile
+Bodyfile - Creation
+Bodyfile - Creation
+bootkey
+Building IR/Threat Hunting Capability
+Building Threat Hunting Capability
+Built-In Service Accounts
+By-Hand Memory Analysis
+By-Hand Third-Party Hash Lookups
+Cached Credentials
+Cached Credentials – Common Tools
+Cached Credentials – Mitigation
+Cached Credentials – Storage Location
+Capability
+Certification Authority
+Certification Authority – Intent
+Certification Authority - Verification Process
+Checkpoint Records
+cmdline
+cmdscan
+Code injection
+Code Injection – Detection
+Code Injection – Volatility
+Code Signing
+Code Signing - Malware
+Code Signing - Malware - Benefits
+Code Signing - Malware - Negatives
+Code Signing - Operating Systems
+Collector
+Collector
+Command line
+Common Locations – Malware
+Common Names – Malware
+Comprehensive Collector
+Comprehensive Collector
+Compromise situations
+Compromised host
+Computed
+connections
+connscan
+consoles
+Containment
+Containment and Intelligence Development
+Context Triggered Piecewise Hashing (CTPH)
+Contiguous Clusters
+Copy Malware
+Credential Availability
+Credential Guard
+Credentials – Compromising (attacker)
+Credentials – Goal of Attacker
+Credentials Misuse (attacker) – Detection
+Credentials Misuse (attacker) – Mitigation
+CredSSP
+Critical Remediation Control
+csrss
+Custom
+Custom – Categories
+Cyber Threat Intelligence Capability
+CybOX
+Data Collection
+Data Exfiltration
+Data Layer
+Data Layer - Basics
+Data Layer Tools
+Data Layer Tools
+Data Reduction
+Data Storage Organization
+DataSectionObject
+Deep-dive Analysis
+Deep-dive analysis
+Deep-dive forensics
+Default.rdp
+Delegate Token
+Delivery
+density
+densityscout
+deskthrd
+Detection Avoidance – Malware
+Detection Situations – Malware
+devicetree
+Digital forensics
+Direct Kernel Object Manipulation (DKOM)
+Directory Handle
+Directory Service
+Disk Layer
+DLL doubly linked lists
+DLL Injection
+DLL Persistence Attacks
+DLL Search Order Hijacking
+DLL Side-Loading
+dlldump
+dlldump
+dlllist
+Domain Account Hash
+Domain Account Hash – Reqs for attacker to gain
+DriveLetter$
+Driverbl
+driverirp
+drivers
+Dual-hop authentication
+dumpfiles
+Dynamically Linked Library (DLL)
+Enter-PSSession
+entropy
+EPROCESS
+EPROCESS
+Establish Foothold
+Evasion Techniques Malware
+Event Handle
+Event Log Clearing
+Event Log Explorer
+Event Log Summary (chart)
+Event Logs
+Event Logs - .evt
+Event Logs - .evtx
+Event Logs – Analysis Resources
+Event Logs – Extract/Export
+Event Logs – Location
+Event Logs – Remote Log Access
+Event Logs - Security Log (See Security Log)
+Event Logs – Size limit
+Event Logs – Types
+Event Logs – Types – System
+Event Viewer
+Event Viewer – Export
+EventID
+eventvwr.exe
+Evidence of Persistence
+evtwalk
+evtx
+evtx_parser
+evtx_view
+Execute Malware/Commands
+Exfiltration
+Exploit - Multi-Phase
+Exploit - Single Phase
+Exploitation
+Fast Forensics
+Fast Forensics
+FAT
+ffind
+ffind
+File deletion (NTFS)
+File Entry Header - $LogFile Sequence Number
+File Entry Header - Attibute Count
+File Entry Header - File Reference to Base Record
+File Entry Header - Fixup
+File Entry Header - Flags
+File Entry Header - Hard Link
+File Entry Header - Inode Number
+File Entry Header - Sequence Number
+File Fragment
+File Handle
+File Record – Directory
+File Record - Files
+File System Focused Timeline
+File System Focused Timeline
+File System Layer
+File System Timeline
+File System Timeline
+File System Timeline - Output
+File System Timeline - Output
+File Time Anomalies
+File writing (NTFS)
+File_Object
+Filename Layer
+Filename Layer Tools
+filescan
+filescan
+Filesystem - Types
+Filesystem Tools
+Fixup Array
+fls
+fls
+fls
+fls
+fls
+fls
+Follow Up
+foremost
+Forensic Analysis
+Forwarded Events
+F-Response
+F-Response
+F-Response - Licensing
+F-Response - Steps
+F-Response Accelerator
+fsstat
+fstat
+FTK Imager Lite
+Fuzzy Hashing
+Gain Authority
+Get-RekalPslist.ps1
+getsids
+Get-SvcFail.ps1
+Golden Ticket
+Golden Ticket – Creation
+gpedit.msc
+GRR
+Handle
+handles (Volatility Plugin)
+Hash Databases
+hashdump
+Hashes
+Hashes – Common Tools
+Hashes – How to Acquire
+Hashes – Local and Domain Storage Location
+Hashes – Mitigation
+hfind
+hiber2bin
+hiber2bin
+hiberfil.sys
+Hibernation File Analysis
+Hiding (NOT in plain sight) – Malware
+Hiding techniques
+Hierarchical Process View
+hivedump
+hivelist
+Hooking
+Hooking – Types
+Hunting Organization
+I/O Request Packets (IRP)
+icat
+icat
+Identification
+Identify Rogue Processes – Volatility
+idt
+ifind
+ifind
+imagecopy
+imagecopy
+imageinfo
+ImageSectionObject
+Immediate Response 
+Impact
+Import Address Table (IAT)
+Incident Response
+Incident Response
+Incident Response
+Incident Response Detection and Intelligence Loop
+Incident Response Lifecycle
+Incident Response Process
+Index Entry
+Indicator of Compromise
+Indicator of Compromise (IOC)
+Indicator of Compromise (IOC) – Redline
+Indicators
+Indicators - Types
+Indicators of Compromise - Creation
+Indicators of Compromise Search
+INDXParse.py
+Infinite Log Area
+Initial Compromise
+inline (trampoline) hooks
+Inodes
+Intelligence
+Intelligence Development
+Intent
+Interactive Logon
+Interface Panes – Redline
+Interrupt Descriptor Table (IDT)
+Intrusion Operation - Phases
+Intrusions - Statistics
+Invoke-Command
+IOC
+IOC Bucket
+IOC Development
+IOC Editor
+IOC Search Collector
+IOC Search Collector
+IOCe
+IPC$
+istat
+istat
+istat
+istat
+jobparser.pl
+jobparser.py
+Journal Layer Tools
+jp
+Kansa.ps1
+Kansa.ps1 – Get-RekalPslist.ps1
+Kansa.ps1 – Get-RekalPslist.ps1 – Negatives
+Kansa.ps1 – Modules
+Kansa.ps1 – Output
+Kansa.ps1 – Prerequisites
+Kansa.ps1 – Target List
+Kerberos – Account Logon Error Codes
+Kerberos - Attacks
+Kerberos – How it works
+Kernel Debugger Datablock (KDBG)
+Kernel Path Protection (PatchGuard)
+Kernel Processor Control Region (KPCR)
+Kernel Processor Control Region (KPCR)
+Kill Chain
+Lateral Movement
+Lateral Movement
+Lateral Movement
+Lateral Movement
+ldrmodules
+ldrmodules
+Least Frequency of Occurrence
+LIBPFF
+Live Memory Analysis – Whitelisting
+Live Memory Forensics
+LNK files
+LNK files
+Local Service
+Locating Log Evidence
+log2timeline.py
+log2timeline.py
+log2timeline.py
+log2timeline.py
+log2timeline.py
+log2timeline.py
+log2timeline.py
+log2timeline.py
+log2timeline.py - File Filter
+log2timeline.py - File Filter
+log2timeline.py - File Filter
+log2timeline.py - Goals
+log2timeline.py - Goals
+log2timeline.py - Parser List
+log2timeline.py - Parser List
+log2timeline.py - Parser List
+log2timeline.py - Parser List
+Logon Events
+Logon ID
+Logon Type Codes
+Logon types
+Logs
+LSA Secrets
+LSA Secrets – Common Tools
+LSA Secrets – Mitigation
+LSA Secrets – Stealing
+lsadump
+lsevt
+MACB
+MACB
+MACB Chart
+MACB Chart
+mactime
+Mactime
+mactime
+Mactime
+Maintain Presence
+Maintain Presence
+malfind
+malprocfind
+malsysproc
+Malware Analysis Process – Step 1
+Malware Analysis Process – Step 2
+Malware Analysis Process – Step 3
+Malware Analysis Process – Step 4
+Malware Analysis Process – Step 5
+Malware Analysis Process – Step 6
+Malware Analysis Process – Steps
+Malware Detection Methods
+Malware detection stages
+Malware Execution
+Malware Persistence
+Malware Risk Index – Components
+Malware Risk Index (MRI)
+Management Support
+Master File Table
+md5deep
+md5deep - With sorter
+Media Forensics VS Memory Analysis
+Media Management Layer Tools
+memdump
+Memory – Timeline analysis
+Memory – Timeline analysis
+Memory Acquisition
+Memory Acquisition – VM’s
+Memory Analysis
+Memory Analysis – Advantages
+Memory Analysis – Stages
+Memory Analysis – Suites
+Memory Analysis Tools
+Memory Analysis VS Media Forensics
+Memory Forensics
+Memory Section (or Pages)
+memory.dmp
+Metadata Layer
+Metadata Layer
+Metadata Layer Tools
+MFT - File Entry Header - Start
+MFT – Record Numbers
+MFT Anomalies
+MFT Zone
+mimikatz
+Mimikatz
+mmls
+moddump
+moddump
+modscan
+modules
+Mutant Handle
+mutantscan
+mutantscan
+Mutex
+Namespace Type
+National Software Reference Library
+netscan
+Network artifacts
+Network Artifacts – Volatility
+Network Logon
+Network Service
+Network Shares
+Non-Layer Tools
+NTDS.DIT
+NTDS.DIT
+NTDSXtract
+NTFS
+NTFS - Attributes
+NTFS - Attributes
+NTFS - Features
+NTLM – Account Logon Error Codes
+Object Access
+Object ID
+Offline – Extraction – Events
+OpenIOC
+openioc_scan
+openioc_scan
+Operating System Vulnerabilities
+Operational Tempo
+Opportunity
+Packing/Entropy Check
+Page Directory Base offset (PDB)
+Page_Execute_ReadWrite
+pagefile.sys
+Pass the Hash attack
+Pass the Ticket attack
+pescan
+pescan - Adnormality Detection
+pescan - Hash
+pf
+pffexport
+Phantom DLL Hijacking
+Physical Layer
+Physical Memory Offset
+Piecewise Hashing
+pinfo
+pinfo
+pinfo.py
+pinfo.py
+Pivot Point
+Pivot Point
+Pivot Point Determination
+Pivot Point Determination
+Plaso
+Plaso
+Plaso - Goals
+Plaso - Goals
+Plaso - Parsers
+Plaso - Parsers
+Policy Change
+powercfg.exe
+PowerShell
+PowerShell
+PowerShell – Basics
+PowerShell Remoting
+PowerShell Remoting – Detection
+PowerShell Script Block Logging
+Prefetch
+Prefetch – Carving
+Prefetch – Directory
+Prefetch – File System Time Stamps
+Prefetch – Files
+prefetchparser
+Preparation
+printkey
+Privilege User
+Privileged/Admin Activity
+Problems
+procdump
+Process
+Process – Timeline Analysis
+Process – Timeline Analysis
+Process Environment Block (PEB)
+Process Hollowing
+Process Tracking
+Processbl
+Profiles – Volatility
+ProgramDataUpdater
+Protected Process
+PsExec
+PsExec – ??
+PsExec – Credentials
+PsExec – Detection
+PsExec – Event Log Artifacts
+PsExec – File System Artifacts
+PsExec – Memory Artifacts
+PsExec – Process Steps
+PsExec – Registry Artifacts
+PsExec – Remote Command Execution
+pslist
+PsLogList
+PsLogList – Extraction – Events
+PsLoglist.exe
+PsLoglist.exe
+psort
+psort
+psort.py
+psort.py
+pspcid
+psscan
+pstotal
+pstree
+psxview
+Quick Response
+RDP
+RDP
+RDPClip.exe
+RdpCore log
+rdphint
+Reactive Organization
+Reality – Timeline Analys
+Reality – Timeline Analys
+RecentFileCache.bfc – Location
+RecentFileCache.bfc – Purpose
+RecentFileCache.bfc – Rules
+Recon
+Recovery
+Redline
+Redline
+Redline
+Redline – Analyze Data
+Redline – Collect Data
+Redline - Supports
+Redo Pass
+reg.exe
+Registry Analysis
+Registry and Password Analysis – Volatility
+Registry Artifacts in Memory
+Registry Handle
+RegRipper
+Rekall
+Rekall
+Remediation
+Remediation - Challenges
+Remediation - Critical Controls
+Remediation - Incorrect lifecycle
+Remediation Event
+Remediation Event - Goals
+Remediation Event - Plan - Posture
+Remediation Event - Plan (steps)
+Remote Access Agent
+Remote Analysis Agent
+Remote Desktop Services (attacker) – Detection
+Remote Desktop Services (attacker) – Registry Key
+Remote Enterprise Incident Response & Forensics
+Remote Forensics
+Remote Log Access
+Remote Management Tools
+Remote SIFT Access
+Remoting – PowerShell
+Reparse Point
+Restart Area
+Restore Points
+Restore Points – When Created
+rfc.pl
+Right Mindset
+rip.pl
+Risk
+Rootkit Detection Plugins – Volatility
+Rootkit Hooking – Types
+sc
+sc.exe
+Scheduled Tasks – Malware Persistence
+Scheduled Tasks logs
+schtasks.exe
+Scope
+SecondLook
+Section_Object_Pointer
+Security
+Security – Detailed
+Security Identifier (SID)
+Security Log – Categories
+Semaphore
+Service Accounts
+Service Replacement – Malware
+Servicebl
+session
+Setup
+Shadow Copy Volumes
+SharedCachedMap
+shimcache
+ShimCache
+shimcachemem
+ShimCacheParser.py
+SID – Parts
+SID – Well known
+SIFT Workstation
+SIFT Workstation – Extraction – Events
+sigcheck.exe
+Six-Step Incident Response Process
+Sleuth Kit
+Sockets
+sockets
+socketscan
+sorter
+sorter - Data types
+sorter - hash database
+Sparse file
+ssdeep
+ssdt
+ssdt_ex
+Stable registry keys
+Stable registry keys
+Standard Collector
+Standard Collector
+Standard Windows Time Rules
+Standard Windows Time Rules
+STIX
+String Searching
+strings
+Super Timeline
+Super Timeline
+Super Timeline - Color Template
+Super Timeline - Color Template
+Super Timeline - Creation
+Super Timeline - Creation
+Super Timeline - Fields/Columns
+Super Timeline - Fields/Columns
+Super Timeline - Fields/Columns
+Super Timeline - Import into Excel
+Super Timeline - Import into Excel
+Super Timeline Analysis
+Suspicious Services
+svcscan
+svcscan
+swapfile.sys
+SysKey
+System
+System Events
+System Files
+System Service Descriptor Table (SSDT)
+System Service Descriptor Table (SSDT)
+Task Scheduler v1.0
+Task Scheduler v1.2
+TaskSchedular log
+Team Composition
+TeamViewer
+Technet
+Temporal Proximity
+Temporal Proximity
+thrdproc
+Thread
+Threat
+Threat Environment
+Threat Hunting
+Threat Hunting
+Threat Hunting - From Automated to Manual
+Ticket Granting Tickets (TGT)
+Tickets
+Tickets – Golden Ticket
+Tickets – How to Steal
+Tickets – Mitigation
+Time Rules
+Time Rules
+Time Rules - Exceptions
+Time Rules - Exceptions
+Time Slice
+Time Slice
+Time Slice
+Time Slice
+Timeline
+Timeline
+Timeline Analysis
+Timeline Analysis
+Timeline Analysis - Core ares
+Timeline Analysis - Core ares
+Timeline Analysis - Evidence
+Timeline Analysis - Evidence
+Timeline Analysis - Tools
+Timeline Analysis - Tools
+Timeline Benefits
+Timeline Benefits
+Timeline Creation - Step One
+Timeline Creation - Step One
+timeliner
+timeliner
+Timestamp Anomalies
+Timestamps - NTFS
+Timestamps - NTFS
+token
+Tokens
+Tokens – Common Tools
+Tokens – Mitigation
+Tokens – Stealing
+trampoline (inline) hooks
+Transaction Logging – System Crash
+Triage Extraction
+Triage Extraction
+TrueCrypt
+Ultimate Windows Security
+Unallocated Clusters
+Undo Pass
+Update Records
+userassist
+vaddump
+Virtual Address Descriptor (VAD)
+Virtual Memory Offset
+VirusTotal.com
+VNC
+Volafox
+Volatile registry keys
+Volatile registry keys
+Volatility
+Volatility – Supported Plugins
+Volume Boot Record
+Volume Shadow Copy
+Volume Shadow Copy – Analysis Options
+Volume Shadow Copy – How it works
+Volume Shadow Copy – How to Mount
+Volume Shadow Copy – Location
+Volume Shadow Copy – When Created
+Volume Snapshot Service
+vshadowinfo
+vshadowmount
+Vshadowmount – Steps
+vssadmin list shadows
+Vulnerability
+Vulnerability Exploitation
+Vulnerability Exploitation – Detection
+Vulnerability Exploitation – Types
+Wdigest
+Weaponization
+Whitelisting – Live Memory Analysis
+Whitelisting binaries
+Win32/64dd
+Windows Audit Collection Service
+Windows Credential Editor (WCE)
+Windows Management Instrumentation
+Windows Processes
+Windows Services – Malware Persistence
+Windows Side-by-side – DLL Loading
+Windows-TerminalServices-LocalSessionManager log
+WinPMEM
+winrs.exe
+wisp
+WMI
+WMI
+WMI – Detection
+WMI Event Consumers
+WMI Event Consumers - Steps
+WMI Event Consumers - Triggers
+WMIC
+wsmprovhost.exe
+YARA-Project
+Zone Identifier
+
+CSRSS.EXE
+EXPLORER.EXE
+IEXPLORE.EXE
+LSASS.EXE
+LSM.EXE
+SERVICES.EXE
+SMSS.EXE
+SVCHOST.EXE
+SYSTEM
+TASKHOST.EXE
+WININIT.EXE
+WINLOGON.EXE
